@@ -16,7 +16,7 @@ This repository provides a dataset along with a framework to assist comparative 
     - Wrong operand in binary operation
 
 Framework:
-    - A framework where researchers can incorporate additional context and use on the existing dataset.
+- A framework where researchers can incorporate additional context and use on the existing dataset.
 
 # Prerequisites
 
